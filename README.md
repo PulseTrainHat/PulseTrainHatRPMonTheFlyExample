@@ -1,6 +1,8 @@
 # PulseTrainHatRPMonTheFlyExample
 Pulse Train Hat changing speed on the fly example
 
+![alt tag](https://i0.wp.com/pthat.com/wp-content/uploads/2017/04/imi.jpg)
+
 Examples for the PTHAT http://www.pthat.com
 
 Raspberry Pi running Windows 10 IOT Universal Application C#
